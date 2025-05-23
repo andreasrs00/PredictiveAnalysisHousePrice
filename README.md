@@ -283,5 +283,4 @@ Grafik menunjukkan perbandingan antara harga rumah **aktual** (garis biru) denga
 
 ---
 
-![Grafik](image/grafik.jpg)#   P r e d i c t i v e A n a l y s i s H o u s e P r i c e  
- 
+![Grafik](image/grafik.jpg)#
